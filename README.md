@@ -1,4 +1,4 @@
-# Social-Media-Impact-on-Producitivity
+# Social-Media-Impact-on-Productivity-A-Data-Intelligence-Approach
 **Analyzing the Impact of Social Media Usage on User Productivity**
 **Dataset**: https://www.kaggle.com/datasets/muhammadroshaanriaz/time-wasters-on-social-media
 
